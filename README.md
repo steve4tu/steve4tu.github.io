@@ -2,16 +2,16 @@
 useful description of my project
 
 
-# Header 1
-## Header 2
-### Header 3
+#Header 1
+##Header 2
+###Header 3
 
-Some of my favourite things
-- Food
-- Cats!
-- Rain
+#Some of my favourite things
+#- Food
+#- Cats!
+#- Rain
 
-**Bold text**
+#**Bold text**
 
-*Italicised text*
+#*Italicised text*
 
